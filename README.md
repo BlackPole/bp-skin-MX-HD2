@@ -1,4 +1,4 @@
-Balck Pole Skin MX_HD2
+Black Pole Skin MX_HD2
 ======================
 
 Author: Matrix10
